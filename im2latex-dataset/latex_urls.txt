@@ -1,0 +1,12 @@
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-1992.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-1993.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-1994.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-1995.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-1996.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-1997.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-1998.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-1999.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-2000.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-2001.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-2002.tar.gz
+http://www.cs.cornell.edu/projects/kddcup/download/hep-th-2003.tar.gz

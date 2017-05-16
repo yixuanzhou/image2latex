@@ -1,0 +1,46 @@
+QFrame {   
+  background-color: #18BC9C;
+}
+
+QLabel {
+   background: transparent;
+   color: #ffffff;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 15px;
+   font-weight: 300;
+}
+
+QLabel#about {
+   background: transparent;
+   color: #ffffff;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 45px;
+   font-weight: 700;
+}
+
+QLabel#intro {
+   background: transparent;
+   color: #ffffff;
+   font-family: 'Lato', 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: 500;
+}
+
+QPushButton {
+   font-family: 'Lato';
+   font-size: 15px;   
+   background: transparent;
+   color: #ffffff;
+   border-style: outset;
+   border-color: #ffffff;
+   border-width: 2px;
+   border-radius: 5px;
+   height: 35px;
+   width: 120px;
+}
+
+QPushButton:hover, QPushButton:pressed, QPushButton:checked {
+  color: #18BC9C;
+  background: white;
+  border: solid 2px white;
+}

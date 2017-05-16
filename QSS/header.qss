@@ -1,0 +1,28 @@
+QFrame{
+    background-color: #2C3E50;
+}
+
+QPushButton{
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+QPushButton:hover, QPushButton:pressed, QPushButton:checked {
+  color: #18BC9C;  
+  border-radius: 5px;
+  border: solid 2px white;
+}
+
+QLabel{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+QFrame#line1{
+    color: #161619;
+}

@@ -1,0 +1,13 @@
+QTabWidget::pane {
+    background: #16181c;
+}
+
+QTabWidget {
+    background: #16181c;
+    border: none;
+}
+
+QTabBar#mainTab::tab{
+    width: 0px;
+    height: 0px;
+}
